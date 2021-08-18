@@ -12,5 +12,5 @@ def addthis(x,y):
     print(f"This is the result {result}")
     return result
 
-print(addthis("one",2))
+# print(addthis("1",2))
 
